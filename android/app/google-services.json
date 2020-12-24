@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1051366331182",
+    "firebase_url": "https://asktrology-4ac2a.firebaseio.com",
+    "project_id": "asktrology-4ac2a",
+    "storage_bucket": "asktrology-4ac2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051366331182:android:97ac27fff0af6f693b60bf",
+        "android_client_info": {
+          "package_name": "com.semi.astrology.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051366331182-47eh8btutqc75bn4r4u0uknrt4m67eie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.semi.astrology.app",
+            "certificate_hash": "5a57f30d19a51141396603a8a5dd5229d2964266"
+          }
+        },
+        {
+          "client_id": "1051366331182-bgr2s9cequtv8usl3p2blge4d2p8ktkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu-RJKr_nR-jo0ixKPrCVeOe5gXrM2lCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051366331182-bgr2s9cequtv8usl3p2blge4d2p8ktkq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1051366331182-j7c807qq2ovh7n1pm9clscsgnhsmof0d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.asktrology.com",
+                "app_store_id": "1191334626"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
